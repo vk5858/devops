@@ -49,3 +49,38 @@ git remote add origin https://github.com/vk5858/devops.git
 ll
 git branch
 git push -u origin master
+ll
+git branch -m branch2 branch3
+git branch 
+git checkout master
+git branch
+git clone -b branch1https://github.com/vk5858/sample.git
+ll
+lsdevops
+ls devops
+git branch
+git branch - branch3
+git branch -d branch3
+ll
+git branch -D file2
+ll
+git branch
+git checkout branch1
+ll
+git branch
+touch file4
+touch file5
+touch file6
+ll
+git add .
+git commit -m "fourth commit"branch1
+ls
+git branch
+git add file4
+git status
+git commit -m "wellcome" branch1
+git commit -m "wellcome"file4
+git log
+git branch
+git push -u orgini branch1
+git log
